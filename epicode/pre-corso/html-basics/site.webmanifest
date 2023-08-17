@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "https://m0n0t0ny.github.io/EPICODE/PRE-CORSO/HTML%20Basics/favicon/android-chrome-192x192.png",
+            "src": "https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/favicon/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://m0n0t0ny.github.io/EPICODE/PRE-CORSO/HTML%20Basics/favicon/android-chrome-512x512.png",
+            "src": "https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/favicon/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
