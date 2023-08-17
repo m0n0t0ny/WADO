@@ -1,4 +1,4 @@
-# Hi there, I'm Antonio - aka [m0n0t0ny](website) 👋
+# Hi there, I'm Antonio - aka [m0n0t0ny](github) 👋
 ![m0n0t0ny](./img/me-rounded.png)
 ### On my way to become a full-stack developer 🍀
 
@@ -53,7 +53,7 @@
 
 </details>
 
-[github]: https://m0n0t0ny.github.io/m0n0t0ny
-[website]: https://antoniobertuccio.com
+[github]: https://m0n0t0ny.github.io/m0n0t0ny/
+[website]: https://antoniobertuccio.com/
 [instagram]: https://www.instagram.com/bertucc.io/
 [linkedin]: https://www.linkedin.com/in/antobertu/
