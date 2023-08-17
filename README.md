@@ -11,8 +11,8 @@
 
 ## Epicode challenges
 
-- [Challenge 1 - HTML Basics](https://codekaito.github.io/Epicode-Challenge/challenge/module1-lecture1/)
-- [Challenge 2 - Frontend Basics](https://codekaito.github.io/Epicode-Challenge/challenge/module1-lecture2/)
+- [Challenge 1 - HTML Basics]([https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/index.html])
+- [Challenge 2 - Frontend Basics](/epicode/pre-corso/frontend-basics/index.html)
 
 ---
 
@@ -53,7 +53,7 @@
 
 </details>
 
-[github]: https://github.com/m0n0t0ny
+[github]: https://m0n0t0ny.github.io/m0n0t0ny
 [website]: https://antoniobertuccio.com
 [instagram]: https://www.instagram.com/bertucc.io/
 [linkedin]: https://www.linkedin.com/in/antobertu/
