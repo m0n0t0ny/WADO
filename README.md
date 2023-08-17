@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Antonio 👋</h1>
 <p align="center">
-    <img width="125px" src="/img/m0n0t0ny.png">
+    <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
 </p>
 
 ### On my way to become a full-stack developer 🍀
