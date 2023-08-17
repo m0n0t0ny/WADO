@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[![website](/social-icons/github-icon.png)](github)
+[![Github](/social-icons/github-icon.png)](https://github.com/m0n0t0ny/)
 &nbsp;&nbsp;
 [![Insagram](/social-icons/instagram-icon.png)](https://www.instagram.com/bertucc.io/)
 
