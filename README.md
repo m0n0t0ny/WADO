@@ -11,7 +11,7 @@
 
 ## Epicode challenges
 
-- [Challenge 1 - HTML Basics]([https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/index.html])
+- [Challenge 1 - HTML Basics](/epicode/pre-corso/html-basics/index.html)
 - [Challenge 2 - Frontend Basics](/epicode/pre-corso/frontend-basics/index.html)
 
 ---
