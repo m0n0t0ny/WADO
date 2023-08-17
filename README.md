@@ -11,8 +11,9 @@
 
 ## Epicode challenges
 
+- [Browse my README.md file](https://m0n0t0ny.github.io/m0n0t0ny/)
 - [Challenge 1 - HTML Basics](/epicode/pre-corso/html-basics/index.html)
-- [Challenge 2 - Frontend Basics](/epicode/pre-corso/frontend-basics/index.html)
+- [Challenge 2 - Frontend Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/frontend-basics/index.html)
 
 ---
 
@@ -20,7 +21,7 @@
 
 [![website](/social-icons/github-icon.png)](github)
 &nbsp;&nbsp;
-[![Insagram](/social-icons/instagram-icon.png)](instagram)
+[![Insagram](/social-icons/instagram-icon.png)](https://www.instagram.com/bertucc.io/)
 
 ### Languages and Tools:
 
@@ -52,8 +53,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0n0t0ny&show_icons=true&locale=en&layout=compact" alt="m0n0t0ny" style="width: 470px;" /></p>
 
 </details>
-
-[github]: https://m0n0t0ny.github.io/m0n0t0ny/
-[website]: https://antoniobertuccio.com/
-[instagram]: https://www.instagram.com/bertucc.io/
-[linkedin]: https://www.linkedin.com/in/antobertu/
