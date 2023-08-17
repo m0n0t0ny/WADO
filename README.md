@@ -1,4 +1,4 @@
-# Hi there, I'm Antonio - aka [m0n0t0ny](github) 👋
+# Hi there, I'm Antonio - aka [m0n0t0ny](https://m0n0t0ny.github.io/m0n0t0ny/) 👋
 ![m0n0t0ny](./img/me-rounded.png)
 ### On my way to become a full-stack developer 🍀
 
