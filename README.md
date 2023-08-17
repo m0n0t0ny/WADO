@@ -1,15 +1,18 @@
-# Hi there, I'm Antonio - aka [m0n0t0ny](https://m0n0t0ny.github.io/m0n0t0ny/) 👋
-![m0n0t0ny](./img/me-rounded.png)
+<h1 align="center">Hi there, I'm Antonio 👋</h1>
+<p align="center">
+    <img width="125px" style="border-radius: 100%;" src="./img/m0n0t0ny.png">
+</p>
+
 ### On my way to become a full-stack developer 🍀
 
 - 🌱 I’m currently studying at Epicode to become a full-stack developer!
-- 👯 I’m looking to collaborate with other content creators
+- 🤝 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I can say "cheers" in 17 languages 🍻
-- 📫 How to reach me **anto.bertu@gmail.com**
+- 📫 How to reach me **<anto.bertu@gmail.com>**
 
 ---
 
-## Epicode challenges
+### Epicode challenges
 
 - [Browse my README.md file](https://m0n0t0ny.github.io/m0n0t0ny/)
 - [Challenge 1 - HTML Basics](/epicode/pre-corso/html-basics/index.html)
