@@ -167,6 +167,12 @@ input:focus {
     outline: none;
 }
 
+input[type=radio]#yesnews,
+input[type=radio]#nonews,
+input[type=checkbox]#tandc {
+    accent-color: #CB2376;
+}
+
 .tandc {
     display: flex;
     align-items: center;
