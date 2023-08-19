@@ -234,7 +234,14 @@ hr {
     justify-content: center;
 }
 
-table, caption, thead, tbody, tfoot, tr, th, td {
+table,
+caption,
+thead,
+tbody,
+tfoot,
+tr,
+th,
+td {
     padding: 0.25rem;
     text-align: center;
 }
@@ -245,7 +252,8 @@ table {
     padding: 1rem;
 }
 
-th, td {
+th,
+td {
     border-bottom: 1px solid white;
 }
 
