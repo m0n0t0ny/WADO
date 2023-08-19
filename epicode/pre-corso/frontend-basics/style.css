@@ -45,12 +45,10 @@ body {
 
 .musicode-logo img {
     width: 25vw;
-    margin-bottom: 1rem;
 }
 
 .musicode-title h1 {
     font-size: 3.5vw;
-    margin-bottom: 1rem;
     color: #eee;
 }
 
@@ -68,11 +66,12 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    gap: 2vh;
 }
 
 .side-2 h2 {
+    height: 6.25%;
     font-weight: 600;
-    margin-bottom: 1rem;
 }
 
 form {
@@ -80,13 +79,12 @@ form {
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    margin-bottom: 1rem;
+    gap: 1vh;
 }
 
 .form-box {
     display: flex;
     gap: 1rem;
-    margin-bottom: 1rem;
 }
 
 .labels {
@@ -148,7 +146,6 @@ input:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* flex-direction: column; */
     gap: 0.5rem;
 }
 
@@ -156,7 +153,6 @@ input:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* flex-direction: column; */
     gap: 0.5rem;
 }
 
@@ -177,14 +173,12 @@ input[type=checkbox]#tandc {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 1rem;
 }
 
 .tandc-label {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 0.5rem;
 }
 
 .tandc input:focus,
@@ -210,7 +204,6 @@ input[type=checkbox]#tandc {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 1rem;
 }
 
 .or {
@@ -234,11 +227,11 @@ hr {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    gap: 1vh;
 }
 
 .other-options h4 {
     font-weight: 400;
-    margin-bottom: 0.5rem;
 }
 
 .social-box {
@@ -246,7 +239,12 @@ hr {
     align-items: center;
     justify-content: center;
     gap: 1rem;
-    margin: 0.25rem;
+}
+
+.social-a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .social-icon:hover,
