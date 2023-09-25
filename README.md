@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Antonio 👋</h1>
 <br>
 <p align="center">
-    <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
+    <img width="125px" src="./img/m0n0t0ny.png">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 <br>
 
-[Browse my README.md file](https://m0n0t0ny.github.io/m0n0t0ny/)
+[Browse my README.md file](./)
 <br>
 
 ### On my way to become a full-stack developer 🍀
@@ -33,14 +33,14 @@
 
 #### Pre-corso
 
-- [Challenge 1 - HTML Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/index.html)
-- [Challenge 2 - Frontend Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/frontend-basics/index.html)
-- [Challenge 3 - CSS Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/css-basics/index.html)
-- [Challenge 4 - Youtube Clone](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/youtube-clone/index.html)
+- [Challenge 1 - HTML Basics](./epicode/pre-corso/html-basics/index.html)
+- [Challenge 2 - Frontend Basics](./epicode/pre-corso/frontend-basics/index.html)
+- [Challenge 3 - CSS Basics](./epicode/pre-corso/css-basics/index.html)
+- [Challenge 4 - Youtube Clone](./epicode/pre-corso/youtube-clone/index.html)
 
 #### Corso
 
-- [U1-W1-D1 - Front End Developer](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/u1-w1-d1/index.html)
+- [U1-W1-D1 - Front End Developer](./epicode/corso/u1-w1-d1/index.html)
 - [U2-W1-D1 - Form, tabelle e contenitori]
 - [U3-W1-D1 - S1/L3 - CSS level 1/2/3]
 - [U4-W1-D1 - Formattazione elementi]
