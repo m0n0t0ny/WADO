@@ -1,5 +1,5 @@
 <br>
-<h1 align="center">Hi there, I'm Antonio 👋</h1>
+<h1 align="center">Hi there, I'm Antonio 👋<br><br></h1>
 <br>
 <p align="center">
     <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
@@ -16,7 +16,7 @@
 </p>
 <br>
 
-[Browse my README.md file](https://m0n0t0ny.github.io/m0n0t0ny/)
+[Browse my README.md file like a web page](https://m0n0t0ny.github.io/m0n0t0ny/)
 <br>
 
 ### On my way to become a full-stack developer 🍀
@@ -29,24 +29,49 @@
 
 ---
 
-### Epicode challenges
+### Epicode Academy 🔥
 
-#### Pre-corso
+<details>
+<summary>See my work 👨‍💻</summary>
+
+### Pre-course
 
 - [Challenge 1 - HTML Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/index.html)
-- [Challenge 2 - Frontend Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/frontend-basics/index.html)
+- [Challenge 2 - Frontend Basics](#)
 - [Challenge 3 - CSS Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/css-basics/index.html)
 - [Challenge 4 - Youtube Clone](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/youtube-clone/index.html)
 
-#### Corso
+### Course
+
+HTML & CSS I
 
 - [U1-W1-D1 - Front End Developer](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W1-D1/index.html)
-- [U2-W1-D1 - Form, tabelle e contenitori]
-- [U3-W1-D1 - S1/L3 - CSS level 1/2/3]
-- [U4-W1-D1 - Formattazione elementi]
-- [U5-W1-D1 - Progetto settimanale]
+- [U1-W1-D2 - Form, tabelle e contenitori]
+- [U1-W1-D3 - S1/L3 - CSS level 1/2/3]
+- [U1-W1-D4 - Formattazione elementi]
+- [U1-W1-D5 - Progetto settimanale]<br><br>
 
-  <br>
+Javascript I
+
+- [U1-W2-D1 - Introduzione a Javascript]
+- [U1-W2-D2 - Oggetti, Array & Condizionali]
+- [U1-W2-D3 - Switch-Case & Loops]
+- [U1-W2-D4 - Funzioni]
+- [U1-W2-D5 - Progetto settimanale]<br><br>
+
+Javascript II
+
+- [U1-W3-D1 - ES6+, Metodi degli Array (Map, Filter, Reduce)]
+- [U1-W3-D2 - DOM Traversing & Manipulation]
+- [U1-W3-D3 - DOM Events, Form Validation, BOM]
+- [U1-W3-D4 - Coding Live - Calendario]
+- [U1-W3-D5 - Progetto settimanale]<br><br>
+
+Build Week 1
+
+</details>
+
+<br>
 
 ---
 
