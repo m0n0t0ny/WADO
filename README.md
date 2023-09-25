@@ -29,10 +29,21 @@
 ### Epicode challenges
 
 - [Browse my README.md file](https://m0n0t0ny.github.io/m0n0t0ny/)
-- [Challenge 1 - HTML Basics](https://m0n0t0ny.github.io/m0n0t0ny//epicode/pre-corso/html-basics/index.html)
+- ##Pre-corso
+
+- [Challenge 1 - HTML Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/index.html)
 - [Challenge 2 - Frontend Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/frontend-basics/index.html)
 - [Challenge 3 - CSS Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/css-basics/index.html)
 - [Challenge 4 - Youtube Clone](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/youtube-clone/index.html)
+
+##Corso
+
+- [U1-W1-D1](./epicode/corso/u1-w1-d1/index.html)
+- [U1-W1-D2]
+- [U1-W1-D3]
+- [U1-W1-D4]
+- [U1-W1-D5]
+
   <br><br>
 
 ---
