@@ -16,14 +16,14 @@
 </p>
 <br>
 
-
 ### On my way to become a full-stack developer 🍀
 
 - 🌱 I’m currently studying at Epicode to become a full-stack developer!
 - 🤝 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I can say "cheers" in 17 languages 🍻
 - 📫 How to reach me **<anto.bertu@gmail.com>**
-<br><br>
+  <br><br>
+
 ---
 
 ### Epicode challenges
@@ -33,15 +33,18 @@
 - [Challenge 2 - Frontend Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/frontend-basics/index.html)
 - [Challenge 3 - CSS Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/css-basics/index.html)
 - [Challenge 4 - Youtube Clone](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/youtube-clone/index.html)
-<br><br>
+  <br><br>
+
 ---
 
 ### Connect with me:
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/480049941042036767)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bertucc.io/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1175248186)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anto.bertu@gmail.com)
 <br><br>
+
 ---
 
 ### Languages:
@@ -53,21 +56,26 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <br><br>
+
 ---
 
 ### Tools:
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br><br>
+
 ---
 
 ### Trainings:
+
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/m0n0t0ny)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 <br><br>
+
 ---
 
 <details>
@@ -81,4 +89,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0n0t0ny" alt="m0n0t0ny" style="width: 500px;" /></p>
 
 </details>
-
