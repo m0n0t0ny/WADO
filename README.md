@@ -16,6 +16,9 @@
 </p>
 <br>
 
+[Browse my README.md file](https://m0n0t0ny.github.io/m0n0t0ny/)
+<br>
+
 ### On my way to become a full-stack developer 🍀
 
 - 🌱 I’m currently studying at Epicode to become a full-stack developer!
@@ -25,8 +28,6 @@
   <br><br>
 
 ---
-
-- [Browse my README.md file](https://m0n0t0ny.github.io/m0n0t0ny/)
 
 ### Epicode challenges
 
