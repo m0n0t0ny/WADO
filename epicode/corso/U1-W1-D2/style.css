@@ -1,0 +1,165 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: ghostwhite;
+}
+
+header {
+  background-color: #eee;
+  color: #111;
+  height: 5rem;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+main {
+  padding: 2.5%;
+}
+
+.intro {
+  padding: 2.5%;
+}
+
+.intro ul,
+.intro ol {
+  margin: 1.5% 3%;
+}
+
+.header-logo {
+  height: 100%;
+  width: 20%;
+  margin: auto;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0.5rem;
+}
+
+.header-logo img {
+  height: 4rem;
+}
+
+.header-title {
+  width: 58%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.header-menu {
+  width: 20%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.header-title h1 {
+  display: inline-block;
+  font-size: 20px;
+}
+
+header ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.epicode-video {
+  width: 100%;
+  margin: auto;
+}
+
+.epicode-video iframe {
+  width: 100%;
+}
+
+.newsletter {
+  width: 100%;
+  text-align: center;
+}
+
+.newsletter table {
+  width: 50%;
+  margin: 2.5% 25%;
+  border: 2px dotted rgb(144, 0, 163);
+  border-radius: 8px;
+}
+
+.newsletter tr {
+  height: 3rem;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #111;
+  border-collapse: collapse;
+}
+
+tr {
+  width: 100%;
+  text-align: center;
+}
+
+td {
+  width: 33%;
+  text-align: center;
+}
+
+.css-stats tr,
+.css-stats td {
+  border: 1px solid #111;
+}
+
+.td-label {
+  text-align: right;
+  padding-right: 5px;
+}
+
+.td-input {
+  text-align: left;
+  padding-left: 5px;
+}
+
+::placeholder {
+  text-align: center;
+}
+
+.related-articles {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.related-articles h2 {
+  padding: 0.5rem;
+}
+
+.related-1,
+.related-2,
+.related-3 {
+  margin-top: 1rem;
+  text-align: left;
+  display: inline-block;
+  width: 30%;
+  border: 2px solid #eee;
+  padding: 2.5%;
+  margin: 1%;
+}
+
+.epicode-video {
+  width: 100%;
+  margin: auto;
+}
+
+footer {
+  background-color: #eee;
+  padding: 1rem;
+  text-align: center;
+}
+
+footer p {
+  padding: 0.25rem;
+}
