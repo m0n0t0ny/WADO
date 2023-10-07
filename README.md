@@ -18,7 +18,7 @@
 </p>
 <br>
 
-[Browse my README.md file like a web page](https://m0n0t0ny.github.io/m0n0t0ny/)
+[🔥 Browse like a web page](https://m0n0t0ny.github.io/m0n0t0ny/)
 <br>
 
 ### On my way to become a full-stack developer 🍀
