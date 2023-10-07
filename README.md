@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Antonio 👋</h1>
 <br>
 <p align="center">
-    <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
+    <img width="125px" src="../img/m0n0t0ny.png">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m0n0t0ny&label=Profile%20views&color=0e75b6&style=flat" alt="m0n0t0ny" /> </p>
@@ -18,7 +18,7 @@
 </p>
 <br>
 
-[Browse my README.md file like a web page](https://m0n0t0ny.github.io/m0n0t0ny/)
+[Browse my README.md file like a web page](../m0n0t0ny/)
 <br>
 
 ### On my way to become a full-stack developer 🍀
@@ -38,28 +38,28 @@
 
 ### Pre-course
 
-- [Challenge 1 - HTML Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/html-basics/index.html)
-- [Challenge 2 - Frontend Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/frontend-basics/index.html)
-- [Challenge 3 - CSS Basics](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/css-basics/index.html)
-- [Challenge 4 - Youtube Clone](https://m0n0t0ny.github.io/m0n0t0ny/epicode/pre-corso/youtube-clone/index.html)
+- [Challenge 1 - HTML Basics](./epicode/pre-corso/html-basics/index.html)
+- [Challenge 2 - Frontend Basics](./pre-corso/frontend-basics/index.html)
+- [Challenge 3 - CSS Basics](./pre-corso/css-basics/index.html)
+- [Challenge 4 - Youtube Clone](./pre-corso/youtube-clone/index.html)
 
 ### Course
 
 HTML & CSS I
 
-- [U1-W1-D1 - Front End Developer](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W1-D1/index.html)
-- [U1-W1-D2 - Form, tabelle e contenitori]
-- [U1-W1-D3 - S1/L3 - CSS level 1/2/3]
-- [U1-W1-D4 - Formattazione elementi]
-- [U1-W1-D5 - Progetto settimanale]<br><br>
+- [U1-W1-D1 - Front End Developer](./epicode/corso/U1-W1-D1/index.html)
+- [U1-W1-D2 - Form, tabelle e contenitori](./epicode/corso/U1-W1-D2/index.html)
+- [U1-W1-D3 - S1/L3 - CSS level 1/2/3](./epicode/corso/U1-W1-D3/index.html)
+- [U1-W1-D4 - Formattazione elementi](./epicode/corso/U1-W1-D4/index.html)
+- [U1-W1-D5 - Progetto settimanale](./epicode/corso/U1-W1-D5/index.html)<br><br>
 
 Javascript I
 
-- [U1-W2-D1 - Introduzione a Javascript]
-- [U1-W2-D2 - Oggetti, Array & Condizionali]
-- [U1-W2-D3 - Switch-Case & Loops]
-- [U1-W2-D4 - Funzioni]
-- [U1-W2-D5 - Progetto settimanale]<br><br>
+- [U1-W2-D1 - Introduzione a Javascript](./epicode/corso/U1-W2-D1/index.html)
+- [U1-W2-D2 - Oggetti, Array & Condizionali](./epicode/corso/U1-W2-D2/index.html)
+- [U1-W2-D3 - Switch-Case & Loops](./epicode/corso/U1-W2-D3/index.html)
+- [U1-W2-D4 - Funzioni](./epicode/corso/U1-W2-D4/index.html)
+- [U1-W2-D5 - Progetto settimanale](./epicode/corso/U1-W2-D5/index.html)<br><br>
 
 Javascript II
 

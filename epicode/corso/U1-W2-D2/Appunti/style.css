@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+}
+
+header {
+  width: 100%;
+}
