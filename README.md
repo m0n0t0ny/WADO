@@ -47,8 +47,8 @@
 
 HTML & CSS I
 
-- [U1-W1-D1 - Front End Developer](https://m0n0t0ny.github.io/m0n0t0ny/U1-W1-D1/index.html)
-- [U1-W1-D2 - Form, tabelle e contenitori](https://m0n0t0ny.github.io/m0n0t0ny/U1-W1-D2/index.html)
+- [U1-W1-D1 - Front End Developer](https://github.com/m0n0t0ny/U1-W1-D1/index.html)
+- [U1-W1-D2 - Form, tabelle e contenitori](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W1-D2/index.html)
 - [U1-W1-D3 - S1/L3 - CSS level 1/2/3](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W1-D3/index.html)
 - [U1-W1-D4 - Formattazione elementi](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W1-D4/index.html)
 - [U1-W1-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W1-D5/index.html)<br><br>
