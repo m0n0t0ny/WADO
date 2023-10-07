@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  font-family: "PT Serif", serif;
+  color: #333;
+}
+
+a {
+  color: rgb(0, 128, 128);
+}
+
+hr {
+  height: 1px;
+  background-color: rgba(0, 201, 201, 0.315);
+  border: none;
+  margin: 1.5rem 0 2rem 0;
+}
+
+ul,
+ol {
+  padding: 1rem 2rem;
+}
+
+li {
+  padding: 0.5rem 0;
+}
+
+header .logo {
+  margin: auto;
+  text-align: center;
+}
+
+header .logo img {
+  height: 3.5rem;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0.75rem;
+}
+
+.Part-of {
+  width: 100%;
+  background-color: #fdfbf1;
+  border-top: 1px solid #ffd877;
+}
+
+.part-of-text {
+  width: 100%;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.part-of-text p {
+  font-size: 14px;
+  color: rgb(0, 128, 128);
+  padding: 0.75rem 0;
+  margin-inline: auto;
+}
+
+.main {
+  width: 60%;
+  margin: 0 20%;
+}
+
+.full-guide {
+  vertical-align: middle;
+}
+
+.receipt-title {
+  text-align: center;
+  margin: auto;
+}
+
+.receipt-title h1 {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.receipt-description {
+  margin-bottom: 1rem;
+}
+
+.dish-preview {
+  width: 50%;
+  margin-inline: auto;
+}
+
+.dish-preview video {
+  width: 100%;
+}
+
+figcaption {
+  color: #666;
+  text-align: center;
+  padding: 1rem 0 2rem 0;
+}
+
+.featured-in-receipts {
+  border-left: 2px solid #ffd977;
+  padding: 0 1.5rem;
+}
+
+.featured-in-receipts h3 {
+  font-size: 18px;
+  color: #b5460f;
+}
+
+.receipt-howto {
+  margin-top: 4rem;
+}
+
+.ingredients p {
+  font-weight: 800;
+  font-size: 1.25rem;
+}
+
+.ingredients h3 {
+  font-size: 2rem;
+}
+
+.method ol li {
+  font-weight: 800;
+}
+
+.read-more {
+  margin-bottom: 1.5rem;
+}
