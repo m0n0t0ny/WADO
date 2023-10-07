@@ -17,9 +17,7 @@
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/m0n0t0ny">
 </p>
 <br>
-<p align="center">
-[Browse like a web page](https://m0n0t0ny.github.io/m0n0t0ny/index.html)
-</p>
+[🔥 Browse like a web page](https://m0n0t0ny.github.io/m0n0t0ny/index.html)
 <br>
 
 ### On my way to become a full-stack developer 🍀
