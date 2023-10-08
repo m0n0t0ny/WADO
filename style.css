@@ -54,6 +54,12 @@ li {
   margin: 0.25rem 0 0.25rem 2rem;
 }
 
+.container {
+  padding: 4rem;
+  border-radius: 1rem;
+  border: 1px solid var(--bright);
+}
+
 header {
   width: 100%;
   text-align: center;
@@ -62,6 +68,7 @@ header {
 
 header img {
   margin: 1rem;
+  border-radius: 1rem;
 }
 
 header .badges {
@@ -75,6 +82,8 @@ header .badges img {
 main {
   margin-top: 3rem;
   max-width: 1200px;
+  display: flex;
+  flex-direction: column;
 }
 
 main img {
