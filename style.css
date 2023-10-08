@@ -7,8 +7,9 @@
 }
 
 :root {
-  --bright: #efefef;
+  --bright: #f0f6fc;
   --dark: #0d1117;
+  --grey: #30363d;
 }
 
 html {
@@ -44,6 +45,7 @@ hr {
   border: 0;
   border-bottom: 1px solid;
   margin: 1.5rem 0;
+  border-color: var(--grey);
 }
 
 ul {
@@ -57,7 +59,7 @@ li {
 .container {
   padding: 4rem;
   border-radius: 1rem;
-  border: 1px solid var(--bright);
+  border: 1px solid var(--grey);
 }
 
 header {
