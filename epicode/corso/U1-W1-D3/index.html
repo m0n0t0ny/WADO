@@ -3,108 +3,131 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <title>Esercizi</title>
+    <!-- google fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
       rel="stylesheet"
     />
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      ::-webkit-scrollbar {
+        background-color: #28282800;
+        width: 10px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background-color: #a8c7fa;
+        border-radius: 5rem;
+      }
+      ::-webkit-scrollbar-thumb:active {
+        background-color: #589dee;
+      }
+      body {
+        width: 100%;
+        font-family: "Roboto", sans-serif;
+        background-color: #282828;
+        color: #e8eaed;
+        overflow-y: scroll;
+      }
+      main {
+        width: 100%;
+        text-align: center;
+      }
+      h1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        height: 50vh;
+        font-size: 10vw;
+      }
+      h3 {
+        height: 10vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      a {
+        text-decoration: none;
+        color: #a8c7fa;
+        padding: 0.5rem;
+        margin: 0 0.5rem;
+        border-bottom: 2px solid #a8c7fa;
+      }
+      a:hover {
+        color: #589dee;
+        border-bottom: 2px solid #589dee;
+      }
+      pre {
+        text-align: left;
+        text-wrap: wrap;
+        white-space: pre-line;
+        padding: 0 4rem 4rem 4rem;
+      }
+      .hero {
+        height: 100vh;
+      }
+      .hero .links {
+        height: 10vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .hero .arrow-container {
+        width: 100%;
+        height: 30vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .arrow-container a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 0;
+        padding-bottom: 0;
+        width: 50%;
+        height: 50%;
+        top: 0;
+        left: 0;
+        animation: upanddown 1s infinite alternate-reverse;
+      }
+      .arrow-container i {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2rem;
+        position: relative;
+      }
+      @keyframes upanddown {
+        from {
+          transform: translateY(0%);
+        }
+        to {
+          transform: translateY(10%);
+        }
+      }
+    </style>
   </head>
-  <body>
-    <header>
-      <div class="logo">
-        <img src="./assets/logo.png" alt="Simply Recipes logo" />
-      </div>
-      <div class="Part-of">
-        <div class="part-of-text">
-          <p>Part of <strong>A SIMPLY FABULOUS THANKSGIVING</strong></p>
-        </div>
-      </div>
-    </header>
 
-    <div class="main">
-      <div class="full-guide">
-        <div class="receipt-title">
-          <h1>Focaccia with Caramelized Onions, Cranberries, and Brie</h1>
-        </div>
-        <div class="receipt-description">
-          <p>
-            Wow your taste buds with this festive focaccia appetizer topped with
-            sweet caramelized onions, tart cranberries, and creamy brie. It will
-            become your new favorite holiday starter!
-          </p>
-        </div>
-        <div class="dish-preview">
-          <video
-            width="400"
-            height="350"
-            controls
-            poster="./assets/thumbnail.png"
-          >
-            <source src="./assets/tutorial.mp4" type="video/mp4" />
-          </video>
-          <figcaption>Image: Sally Vegas</figcaption>
-        </div>
-        <div class="featured-in-receipts">
-          <h3>FEATURED IN:</h3>
-          <a
-            href="https://www.simplyrecipes.com/cranberry-recipes-that-go-beyond-sauce-5206174"
-            ><p>Fresh Cranberry Recipes That Go Beyond Sauce</p>
-          </a>
-        </div>
-        <div class="receipt-howto">
-          <div class="ingredients">
-            <h3>Ingredients</h3>
-            <hr />
-            <div class="part-1">
-              <p>For the focaccia:</p>
-              <ul>
-                <li>4 cups (500g) all-purpose flour</li>
-                <li>1 1/2 teaspoons instant yeast</li>
-                <li>11/2 teaspoons salt</li>
-                <li>13/4 cups (350g) lukewarm water</li>
-                <li>1/4 cup extra virgin olive oil, plus more for the pan</li>
-              </ul>
-            </div>
-            <div class="part-2">
-              <p>For the topping:</p>
-              <ul>
-                <li>3 medium yellow onions, thinly sliced</li>
-                <li>1 tablespoon balsamic vinegar</li>
-                <li>1-2 tablespoons olive oil, for brushing on top</li>
-                <li>
-                  10 ounces brie, cut into cubes (scrape rind off with a paring
-                  knife if desired, though it's not necessary)
-                </li>
-                <li>1 1/2 cups fresh or frozen cranberries</li>
-              </ul>
-            </div>
-          </div>
-          <div class="method">
-            <h3>Method</h3>
-            <hr />
-            <ol>
-              <li>Make the focaccia dough</li>
-              <p>
-                In a medium-sized mixing bowl, or in a stand mixer with a paddle
-                attachment, mix together all the dough ingredients until the
-                flour is fully absorbed. You don't need to actually knead the
-                dough, though I sometimes knead it a few times in the bowl when
-                mixing by hand to incorporate the last of the flour...
-              </p>
-            </ol>
-          </div>
+  <body>
+    <main>
+      <div class="hero">
+        <h1>U1-W1-D3</h1>
+        <h3>Esercizi:</h3>
+        <div class="links">
+          <a href="./esercizio.html">Principale</a>
         </div>
       </div>
-      <div class="read-more">
-        <p>Read more on <a href="Simply recipes">Simply recipes</a></p>
-      </div>
-    </div>
+    </main>
   </body>
 </html>
