@@ -1,0 +1,39 @@
+window.onload = () => {
+  const form = document.getElementById("form");
+  form.onsubmit = function (e) {
+    e.preventDefault();
+  };
+};
+
+const taskInput = document.querySelector("#task-input");
+const submit = document.querySelector("#submit");
+const list = document.querySelector(".list");
+const deleteButton = document.querySelector(".delete-button");
+submit.addEventListener("click", addTask);
+deleteButton.addEventListener("click", deleteItem);
+
+// deleteButton.addEventListener("click", deleteTask);
+
+function addTask() {
+  if (taskInput.value != "") {
+    const li = document.createElement("li");
+    li.className = "task-item";
+    list.appendChild(li);
+    const button = document.createElement("button");
+    button.className = "delete-button";
+    list.appendChild(button);
+    const deleteIcon = document.createElement("i");
+    deleteIcon.className = "fas fa-times";
+    li.textContent = taskInput.value;
+    button.appendChild(deleteIcon);
+    taskInput.value = "";
+  } else {
+    alert("Dai un nome alla task!");
+  }
+}
+
+function deleteItem(e) {
+  if (e.target.classList.contains("delete-button")) {
+    e.target.parentElement.remove();
+  }
+}

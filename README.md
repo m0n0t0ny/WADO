@@ -67,10 +67,10 @@ Javascript I
 
 Javascript II
 
-- [U1-W3-D1 - ES6+, Metodi degli Array (Map, Filter, Reduce)]
-- [U1-W3-D2 - DOM Traversing & Manipulation]
-- [U1-W3-D3 - DOM Events, Form Validation, BOM]
-- [U1-W3-D4 - Coding Live - Calendario]
+- [U1-W3-D1 - ES6+, Metodi degli Array (Map, Filter, Reduce)](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D1/index.html)
+- [U1-W3-D2 - DOM Traversing & Manipulation](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D2/index.html)
+- [U1-W3-D3 - DOM Events, Form Validation, BOM](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D3/index.html)
+- [U1-W3-D4 - Coding Live - Calendario](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D4/index.html)
 - [U1-W3-D5 - Progetto settimanale]<br><br>
 
 Build Week 1
