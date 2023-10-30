@@ -71,9 +71,19 @@ Javascript II
 - [U1-W3-D2 - DOM Traversing & Manipulation](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D2/index.html)
 - [U1-W3-D3 - DOM Events, Form Validation, BOM](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D3/index.html)
 - [U1-W3-D4 - Coding Live - Calendario](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D4/index.html)
-- [U1-W3-D5 - Progetto settimanale]<br><br>
+- [U1-W3-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W3-D5/index.html)<br><br>
 
-Build Week 1
+Build Week I
+
+- [U1-W4 - Build Week](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U1-W4-Build-Week/index.html)<br><br>
+
+HTML & CSS II & UX e UI
+
+- [U2-W5-D1 - UX / UI](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W5-D1/index.html)
+- [U2-W5-D2 - CSS positioning](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W5-D2/index.html)
+- [U2-W5-D3 - Flexbox](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W5-D3/index.html)
+- [U2-W5-D4 - Animazioni](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W5-D4/index.html)
+- [U2-W5-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W5-D5/index.html)<br><br>
 
 </details>
 
