@@ -85,6 +85,10 @@ HTML & CSS II & UX e UI
 - [U2-W5-D4 - Animazioni](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W5-D4/index.html)
 - [U2-W5-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W5-D5/index.html)<br><br>
 
+Bootstrap & SASS
+
+- [U2-W6-D1 - Bootstrap I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D1/index.html)<br><br>
+
 </details>
 
 <br>
