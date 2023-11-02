@@ -1,0 +1,130 @@
+@import "./animazioni";
+@import "./bottoni";
+@import "./colori";
+@import "./font";
+@import "./mixins";
+@import "./reset";
+@import "./spaziature";
+
+.full-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+html {
+  width: $w100;
+
+  body {
+    font-family: $font-family;
+    font-size: $font-size;
+    color: $color;
+    width: $w100;
+    min-height: $min100vh;
+    @extend .full-flex;
+    padding: 0 3rem;
+    background-color: $bg-primary;
+
+    header {
+      height: 5rem;
+      position: fixed;
+      top: 0;
+      width: $w100;
+      @extend .full-flex;
+      padding: 1rem 2rem;
+
+      .logo {
+        @extend .full-flex;
+        gap: 3rem;
+      }
+
+      nav {
+        width: $w100;
+        max-width: $maxwidth;
+        @extend .full-flex;
+        justify-content: space-between !important;
+
+        ul {
+          @extend .full-flex;
+          gap: 2rem;
+
+          li {
+            width: 5rem;
+            list-style: none;
+            font-weight: 400;
+            transition: $standard-transition;
+
+            &:hover {
+              font-weight: 600;
+            }
+          }
+        }
+      }
+    }
+
+    main {
+      width: 100%;
+      @extend .full-flex;
+      flex-direction: column;
+
+      .hero {
+        padding: 5rem 2.5rem;
+        text-align: left;
+        height: 100%;
+        width: 100%;
+        max-width: $maxwidth;
+        @extend .full-flex;
+        flex-wrap: wrap;
+        gap: 5rem;
+
+        h3 {
+          animation: fadeinonload 4s forwards;
+          font-size: 5rem;
+          letter-spacing: -3px;
+        }
+
+        h5 {
+          animation: fadeinonload 4s forwards;
+          font-size: 1.8rem;
+          font-weight: 400;
+          letter-spacing: -0.5px;
+        }
+
+        .hero-side-2 {
+          position: relative;
+
+          #sheep {
+            visibility: hidden;
+            animation: fadeinonloadsheep 2.5s forwards ease 2s;
+          }
+
+          #poop {
+            z-index: -1;
+            position: absolute;
+            width: 4rem;
+            bottom: 0;
+            left: -1rem;
+            visibility: hidden;
+            animation: poppingpoo 0.5s forwards;
+            animation-delay: 10s;
+            animation-timing-function: linear;
+            -webkit-animation-timing-function: linear;
+          }
+        }
+      }
+
+      .grid {
+        width: 100%;
+        @extend .full-flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        padding: 2rem;
+
+        img {
+          width: 3rem;
+          animation: rotatebox 4s infinite;
+        }
+      }
+    }
+  }
+}
