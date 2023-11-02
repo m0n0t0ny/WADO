@@ -89,8 +89,7 @@ Bootstrap & SASS
 
 - [U2-W6-D1 - Bootstrap I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D1/index.html)
 - [U2-W6-D2 - Bootstrap II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D2/index.html)
-- [U2-W6-D3 - SASS I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D3/index.html)
-- <br><br>
+- [U2-W6-D3 - SASS I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D3/index.html)<br><br>
 
 </details>
 
