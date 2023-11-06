@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  text-align: center;
+  /* text-align: center; */
 }
 header {
   width: 100%;
