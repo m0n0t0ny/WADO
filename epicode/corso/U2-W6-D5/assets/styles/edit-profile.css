@@ -1,0 +1,126 @@
+body {
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+  background-color: var(--bg-color);
+  overflow-x: scroll;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden;
+}
+.edit-profile {
+  width: 50%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: white;
+}
+.edit-profile h3 {
+  font-size: 50px;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+  margin-bottom: -15px;
+}
+.edit-profile hr {
+  border-color: #666;
+}
+.user-details {
+  display: flex;
+  width: 100%;
+  gap: 5%;
+}
+.user-details .img-container {
+  width: 20%;
+}
+.user-details .img-container img {
+  width: 100%;
+}
+.user-info {
+  width: 80%;
+}
+.user-info h4 {
+  background-color: #666666;
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+}
+.user-name {
+  display: flex;
+  flex-direction: column;
+}
+.user-info label {
+  width: 100%;
+}
+.user-info h5 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+.user-info select {
+  background-color: black;
+  color: white;
+  border: 1px solid;
+  font-size: 1rem;
+}
+.user-info option:hover {
+  background-color: white;
+}
+.user-info a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  background-color: #333;
+  padding: 0.25rem 0.5rem;
+}
+.user-info p {
+  margin-top: 0.25rem;
+  font-size: 1rem;
+  font-weight: 300;
+}
+.user-info button {
+  background-color: transparent;
+  color: #666;
+  border: 1px solid;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  padding: 0.3rem 1rem;
+  letter-spacing: 2px;
+}
+.buttons {
+  display: flex;
+  gap: 5%;
+  text-wrap: nowrap;
+  font-size: 1rem;
+}
+.buttons button {
+  background-color: white;
+  color: #141414;
+  border: 1px solid;
+  text-transform: uppercase;
+  padding: 0.3rem 1rem;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+.buttons a {
+  background-color: transparent;
+  color: #666;
+  border: 1px solid;
+  text-transform: uppercase;
+  padding: 0.3rem 1rem;
+  letter-spacing: 2px;
+  font-weight: 600;
+  border-radius: 0;
+}
+.buttons button {
+  width: 25%;
+}
+.buttons a:nth-child(1) {
+  width: 25%;
+}
+.buttons a:nth-child(2) {
+  width: 40%;
+}
