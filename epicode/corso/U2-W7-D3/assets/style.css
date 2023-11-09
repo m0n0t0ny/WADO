@@ -1,0 +1,59 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+}
+
+header {
+  z-index: 3;
+  position: sticky;
+  width: 100%;
+}
+
+.book-title {
+  height: 2.5rem;
+  font-size: 1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-buttons {
+}
+
+.card button {
+  width: 50%;
+  padding: 0.5rem 0.25rem;
+  font-size: 0.75rem !important;
+  height: 2rem !important;
+}
+
+/* * Media queries */
+
+/* @media screen and (min-width:576px) {
+} */
+
+/* @media screen and (min-width:768px) {
+} */
+
+/* @media screen and (min-width:992px) {
+} */
+
+/* @media screen and (min-width:1200px) {
+} */
+
+/* @media screen and (min-width:1400px) {
+} */

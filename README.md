@@ -95,7 +95,10 @@ Bootstrap & SASS
 
 Javascript III
 
-- [U2-W7-D1 - OOP I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D1/index.html)<br><br>
+- [U2-W7-D1 - OOP I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D1/index.html)
+- [U2-W7-D1 - JSON + API REST](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D2/index.html)
+- [U2-W7-D1 - Async/Fetch I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D3/index.html)
+- [U2-W7-D1 - Async/Fetch II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D4/index.html)<br><br>
 
 </details>
 
