@@ -1,5 +1,18 @@
 <br>
-<h1 align="center">Hi there, I'm Antonio 👋</h1>
+<h1 align="center">Hi there, I'm</h1>
+<code>
+    
+                              _                    
+                             | |                   
+  _ __ ___   ___  _ __   ___ | |_ ___  _ __  _   _ 
+ | '_ ` _ \ / _ \| '_ \ / _ \| __/ _ \| '_ \| | | |
+ | | | | | | (_) | | | | (_) | || (_) | | | | |_| |
+ |_| |_| |_|\___/|_| |_|\___/ \__\___/|_| |_|\__, |
+                                              __/ |
+                                             |___/
+
+</code>
+<h1 align="center">aka Antonio Bertuccio</h1>
 <br>
 <p align="center">
     <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
@@ -90,15 +103,28 @@ Bootstrap & SASS
 - [U2-W6-D1 - Bootstrap I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D1/index.html)
 - [U2-W6-D2 - Bootstrap II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D2/index.html)
 - [U2-W6-D3 - SASS I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D3/index.html)
-- [U2-W6-D3 - SASS II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D4/index.html)
-- [U2-W6-D3 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D5/index.html)<br><br>
+- [U2-W6-D4 - SASS II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D4/index.html)
+- [U2-W6-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W6-D5/index.html)<br><br>
 
 Javascript III
 
 - [U2-W7-D1 - OOP I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D1/index.html)
-- [U2-W7-D1 - JSON + API REST](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D2/index.html)
-- [U2-W7-D1 - Async/Fetch I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D3/index.html)
-- [U2-W7-D1 - Async/Fetch II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D4/index.html)<br><br>
+- [U2-W7-D2 - JSON + API REST](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D2/index.html)
+- [U2-W7-D3 - Async/Fetch I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D3/index.html)
+- [U2-W7-D4 - Async/Fetch II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D4/index.html)
+- [U2-W7-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U2-W7-D5/index.html)<br><br>
+
+Build Week II
+
+- [U2-W8 - Build Week]()<br><br>
+
+Typescript
+
+- [U3W9D1 - Sintassi e istruzioni base](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D1/index.html)
+- [U3W9D2 - OOP I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D2/index.html)
+- [U3W9D3 - OOP II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D3/index.html)
+- [U3W9D4 - ES6](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D4/index.html)
+- [U3W9D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D5/index.html)<br><br>
 
 </details>
 

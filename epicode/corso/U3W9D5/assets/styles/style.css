@@ -1,0 +1,190 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-family: "Outfit", sans-serif;
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+}
+
+header {
+  width: 100%;
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+}
+
+#smartphone {
+  background-image: url(../img/wallpaper.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 620px;
+  width: 300px;
+}
+
+#status-bar {
+  height: 1.33rem;
+}
+
+#status-bar img {
+  margin-top: 0.25rem;
+  filter: invert(100%) sepia(0%) saturate(7485%) hue-rotate(143deg)
+    brightness(103%) contrast(103%);
+}
+
+#navigation-bar {
+  height: 3rem;
+}
+
+#navigation-bar img {
+  cursor: pointer;
+  filter: invert(100%) sepia(0%) saturate(7485%) hue-rotate(143deg)
+    brightness(103%) contrast(103%);
+}
+
+.filter {
+  height: 110vh;
+  width: 110vw;
+  position: absolute;
+  top: -5vh;
+  left: -5vh;
+  background-image: url(../img/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  filter: blur(5px) brightness(70%);
+}
+
+/* !------------ HOME ------------ */
+
+#home button,
+#home a {
+  border-radius: 100%;
+}
+
+#home button:hover,
+#home a:hover {
+  scale: 1.05;
+}
+
+#apps-dock button,
+#apps-dock a {
+  scale: 1.1;
+}
+
+#apps-dock button:hover,
+#apps-dock a:hover {
+  scale: 1.15;
+}
+
+/* !------------ BROWSER ------------ */
+
+#browser {
+  background: rgb(38, 0, 143);
+  background: linear-gradient(
+    45deg,
+    rgba(38, 0, 143, 1) 0%,
+    rgba(203, 35, 118, 1) 100%
+  );
+}
+
+#top-up-1,
+#top-up-2,
+#top-up-3,
+#top-up-4,
+#top-up-5 {
+  border: 3px solid transparent;
+  background-color: rgba(000, 000, 000, 0.15);
+  color: #ffffff80;
+  font-size: 2rem;
+  height: 4.5rem;
+  width: 4.5rem;
+  transition: all 0.2s ease-in-out;
+}
+
+#top-up-1:hover,
+#top-up-2:hover,
+#top-up-3:hover,
+#top-up-4:hover,
+#top-up-5:hover {
+  /* scale: 1.15; */
+  /* border: 3px solid #fff; */
+  color: #fff;
+  background-color: rgba(128, 128, 128, 0.5);
+}
+
+.euro {
+  width: 100%;
+  font-size: 0.75rem;
+  margin-top: -0.75rem !important;
+}
+
+#payment {
+  border: none;
+  background-color: rgba(128, 128, 128, 0.5);
+  transition: all 0.2s ease-in-out;
+}
+
+#payment:hover {
+  -webkit-box-shadow: 0px 0px 10px 10px rgba(255, 255, 255, 0.05);
+  -moz-box-shadow: 0px 0px 10px 10px rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 10px 10px rgba(255, 255, 255, 0.05);
+}
+
+#fingerprint {
+  margin-left: 1rem;
+  margin-right: -1rem;
+  height: 3rem;
+  filter: invert(100%) sepia(0%) saturate(7485%) hue-rotate(143deg)
+    brightness(103%) contrast(103%);
+}
+
+/* !------------ CONTACTS ------------ */
+
+.caller-img {
+  height: 3rem;
+  width: 3rem;
+}
+
+.caller-img img {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 9999px;
+}
+
+#favourite-contacts .caller {
+  width: 3rem;
+}
+
+/* !------------ CALL ------------ */
+
+#end-call-btn {
+  margin-top: auto;
+  margin-bottom: 4rem;
+  height: 3rem;
+  width: 3rem;
+}
+
+/* * Media queries */
+
+/* @media screen and (min-width:576px) {
+} */
+
+/* @media screen and (min-width:768px) {
+} */
+
+/* @media screen and (min-width:992px) {
+} */
+
+/* @media screen and (min-width:1200px) {
+} */
+
+/* @media screen and (min-width:1400px) {
+} */
