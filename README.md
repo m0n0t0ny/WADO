@@ -1,7 +1,6 @@
 <br>
 <h1 align="center">Hi there, I'm</h1>
-<code>
-    
+<pre align="center">
                               _                    
                              | |                   
   _ __ ___   ___  _ __   ___ | |_ ___  _ __  _   _ 
@@ -10,8 +9,7 @@
  |_| |_| |_|\___/|_| |_|\___/ \__\___/|_| |_|\__, |
                                               __/ |
                                              |___/
-
-</code>
+</pre>
 <h1 align="center">aka Antonio Bertuccio</h1>
 <br>
 <p align="center">
@@ -120,11 +118,11 @@ Build Week II
 
 Typescript
 
-- [U3W9D1 - Sintassi e istruzioni base](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D1/index.html)
-- [U3W9D2 - OOP I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D2/index.html)
-- [U3W9D3 - OOP II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D3/index.html)
-- [U3W9D4 - ES6](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D4/index.html)
-- [U3W9D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D5/index.html)<br><br>
+- [U3-W9-D1 - Sintassi e istruzioni base](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D1/index.html)
+- [U3-W9-D2 - OOP I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D2/index.html)
+- [U3-W9-D3 - OOP II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D3/index.html)
+- [U3-W9-D4 - ES6](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D4/index.html)
+- [U3-W9-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D5/index.html)<br><br>
 
 </details>
 
