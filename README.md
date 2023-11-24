@@ -10,7 +10,8 @@
                                               __/ |
                                              |___/
 </pre>
-<h1 align="center">aka Antonio Bertuccio</h1>
+<p>aka</p>
+<h1 align="center">Antonio Bertuccio</h1>
 <br>
 <p align="center">
     <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
