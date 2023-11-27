@@ -1,6 +1,5 @@
 <br>
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'm Antonio Bertuccio</h1>
+<h1 align="center">Hi there 👋<br>I'm Antonio Bertuccio</h1>
 <br>
 <p align="center">
     <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
