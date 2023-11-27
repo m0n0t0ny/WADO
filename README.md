@@ -184,3 +184,11 @@ Typescript
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0n0t0ny" alt="m0n0t0ny" style="width: 500px;" /></p>
 
 </details>
+
+<br><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+START_SECTION:waka
+END_SECTION:waka
