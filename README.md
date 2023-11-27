@@ -1,17 +1,6 @@
 <br>
-<h1 align="center">Hi there, I'm</h1>
-<pre align="center">
-                              _                    
-                             | |                   
-  _ __ ___   ___  _ __   ___ | |_ ___  _ __  _   _ 
- | '_ ` _ \ / _ \| '_ \ / _ \| __/ _ \| '_ \| | | |
- | | | | | | (_) | | | | (_) | || (_) | | | | |_| |
- |_| |_| |_|\___/|_| |_|\___/ \__\___/|_| |_|\__, |
-                                              __/ |
-                                             |___/
-</pre>
-<p>aka</p>
-<h1 align="center">Antonio Bertuccio</h1>
+<h1 align="center">Hi there 👋</h1>
+<h1 align="center">I'm Antonio Bertuccio</h1>
 <br>
 <p align="center">
     <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
@@ -23,10 +12,12 @@
   <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm0n0t0ny1212%2Fhit-counter">
 </p>
 <p align="center">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/m0n0t0ny/m0n0t0ny">
+<!-- <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/m0n0t0ny/m0n0t0ny">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/m0n0t0ny">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/m0n0t0ny/m0n0t0ny">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/m0n0t0ny">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/m0n0t0ny"><br><br> -->
+<a href="https://wakatime.com/@018b00ef-6cc1-43a4-8648-e9ef310cb613"><img src="https://wakatime.com/badge/user/018b00ef-6cc1-43a4-8648-e9ef310cb613.svg" alt="Total time coded since Oct 5 2023" /></a>
+
 </p>
 <br>
 <p align="center">
