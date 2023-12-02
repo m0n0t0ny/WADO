@@ -117,6 +117,14 @@ Typescript
 - [U3-W9-D4 - ES6](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D4/index.html)
 - [U3-W9-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D5/index.html)<br><br>
 
+Angular
+
+- [U3-W10-D1 - CLI](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D1/index.html)
+- [U3-W10-D2 - Components I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D2/index.html)
+- [U3-W10-D3 - Components II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D3/index.html)
+- [U3-W10-D4 - Dependency Injection](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D4/index.html)
+- [U3-W10-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D5/index.html)<br><br>
+
 </details>
 
 <br>
