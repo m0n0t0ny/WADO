@@ -1,0 +1,38 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+input {
+  width: 60px;
+  max-width: 500px;
+  text-align: center;
+  background-color: transparent;
+  color: #eee;
+  padding: 0.5rem 1rem;
+  border-color: transparent;
+  border: 1px solid #eee;
+  outline: #eee;
+  transition: 0.25s ease-in-out;
+}
+
+input:hover,
+input:active,
+input:focus {
+  width: 400px;
+  max-width: 100%;
+}
+
+input::placeholder {
+  color: #eee;
+}
+
+button {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 9999px;
+}

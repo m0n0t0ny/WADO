@@ -1,0 +1,11 @@
+<div class="completed">
+  <h2>Completed Tasks 🎉</h2>
+  <div *ngIf="todoService.completed.length > 0; else noCompletedTasks"></div>
+  <div *ngFor="let completedTask of todoService.completed">
+    <span>Task {{ completedTask.id }}: {{ completedTask.title }}</span>
+  </div>
+</div>
+
+<ng-template #noCompletedTasks>
+  <div>Retrieving tasks...</div>
+</ng-template>
