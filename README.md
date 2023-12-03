@@ -4,7 +4,7 @@
 </p>
 <br>
 <p align="center">
-    <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/favicon/apple-touch-icon.png">
+    <img width="100px" src="../m0n0t0ny/img/favicon/apple-touch-icon.png">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m0n0t0ny&label=Profile%20views&color=0e75b6&style=flat" alt="m0n0t0ny" /> </p>
