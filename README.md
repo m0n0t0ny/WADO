@@ -6,6 +6,7 @@
 <p align="center">
     <img width="100px" src="./img/favicon/apple-touch-icon.png">
 </p>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m0n0t0ny&label=Profile%20views&color=0e75b6&style=flat" alt="m0n0t0ny" /> </p>
 
