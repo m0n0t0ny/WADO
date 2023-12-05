@@ -181,7 +181,7 @@ Typescript
 <br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@m0n0t0ny/eed46992-59e0-4494-a1cc-f93908ec791d.png" style="width: 500px; border-radius: 5px; margin-bottom:12px" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m0n0t0ny&show_icons=true&locale=en&bg_color=fff&title_color=7289da&text_color=444&icon_color=7289da" alt="m0n0t0ny" style="width: 500px;" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=m0n0t0ny&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&ri font-size: 1rem;ng=7289DA&currStreakLabel=444444&border=444444&stroke=444444&sideNums=444444&excludeDaysLabel=444444&dates=444444&currStreakNum=444444&sideLabels=444444&background=FFFFFF" alt="m0n0t0ny" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0n0t0ny&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&ri%20font-size:%201rem;ng=7289DA&currStreakLabel=444444&border=444444&stroke=444444&sideNums=444444&excludeDaysLabel=444444&dates=444444&currStreakNum=444444&sideLabels=444444&background=FFFFFF" alt="m0n0t0ny" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m0n0t0ny" alt="m0n0t0ny" style="width: 500px;" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0n0t0ny" alt="m0n0t0ny" style="width: 500px;" /></p>
