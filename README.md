@@ -1,11 +1,12 @@
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Antonio+Bertuccio+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Antonio+Bertuccio+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 <br>
 <p align="center">
-    <img width="125px" src="https://m0n0t0ny.github.io/m0n0t0ny/img/m0n0t0ny.png">
+    <img width="100px" src="./img/favicon/apple-touch-icon.png">
 </p>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m0n0t0ny&label=Profile%20views&color=0e75b6&style=flat" alt="m0n0t0ny" /> </p>
 
@@ -116,6 +117,14 @@ Typescript
 - [U3-W9-D3 - OOP II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D3/index.html)
 - [U3-W9-D4 - ES6](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D4/index.html)
 - [U3-W9-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W9D5/index.html)<br><br>
+
+Angular
+
+- [U3-W10-D1 - CLI](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D1/index.html)
+- [U3-W10-D2 - Components I](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D2/index.html)
+- [U3-W10-D3 - Components II](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D3/index.html)
+- [U3-W10-D4 - Dependency Injection](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3W10D4/index.html)
+- [U3-W10-D5 - Progetto settimanale](https://m0n0t0ny.github.io/m0n0t0ny/epicode/corso/U3-W10-D5/index.html)<br><br>
 
 </details>
 
