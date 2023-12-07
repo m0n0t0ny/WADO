@@ -33,7 +33,7 @@
 ### On my way to become a full-stack developer 🍀
 
 - 🌱 I’m currently studying at Epicode to become a full-stack developer!
-- 🤝 I’m looking to collaborate with other content creators.
+- 🤝 I’m looking to collaborate for projects with custom CSS.
 - ⚡ Fun fact: I can say "cheers" in 17 languages 🍻
 - 📫 How to reach me **<anto.bertu@gmail.com>**
   <br><br>
