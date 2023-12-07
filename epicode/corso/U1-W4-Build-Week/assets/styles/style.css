@@ -523,6 +523,11 @@ button {
   filter: brightness(10%);
   cursor: pointer;
   margin-right: 1rem;
+  transition: all 0.5s ease-in-out;
+}
+
+#feedback-page .rating-stars img:hover {
+  transition: all 0.2s ease-in-out;
 }
 
 #feedback-page .rating-stars img:last-child {
