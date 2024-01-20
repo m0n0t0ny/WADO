@@ -19,11 +19,6 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/m0n0t0ny/m0n0t0ny">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/m0n0t0ny"><br><br> -->
 <a href="https://wakatime.com/@018b00ef-6cc1-43a4-8648-e9ef310cb613"><img src="https://wakatime.com/badge/user/018b00ef-6cc1-43a4-8648-e9ef310cb613.svg" alt="Total time coded since Oct 5 2023" /></a>
-
-</p>
-<br>
-<p align="center">
-<img alt="Antonio Bertuccio (badge)" src="https://m0n0t0ny.github.io/m0n0t0ny/img/shields.io.svg">
 </p>
 <br>
 
