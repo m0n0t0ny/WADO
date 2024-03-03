@@ -127,12 +127,13 @@ Angular
 
 ---
 
-### Connect with me:
+### Connect:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/480049941042036767)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bertucc.io/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1175248186)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anto.bertu@gmail.com)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <br><br>
 
 ---
@@ -143,38 +144,33 @@ Angular
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) -->
-
-<br><br>
-
-<!-- [![html progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=100)](https://github.com/harish-sethuraman/readme-components)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95)](https://github.com/harish-sethuraman/readme-components)
-[![javascript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/harish-sethuraman/readme-components)
-[![typescript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=TypeScript&value=85)](https://github.com/harish-sethuraman/readme-components)
-[![java progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Java&value=50)](https://github.com/harish-sethuraman/readme-components) -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ### Platforms, Libraries and Frameworks:
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-<!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 <br><br>
 
 ---
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 <br><br>
 
 ---
@@ -183,6 +179,14 @@ Angular
 
 <summary>💹 GitHub Stats</summary>
 <br>
+
+[![html progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=100)](https://github.com/harish-sethuraman/readme-components)
+[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95)](https://github.com/harish-sethuraman/readme-components)
+[![javascript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/harish-sethuraman/readme-components)
+[![typescript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=TypeScript&value=85)](https://github.com/harish-sethuraman/readme-components)
+[![java progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Java&value=50)](https://github.com/harish-sethuraman/readme-components)
+
+<br><br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@m0n0t0ny/eed46992-59e0-4494-a1cc-f93908ec791d.png" style="width: 500px; border-radius: 5px; margin-bottom:12px" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m0n0t0ny&show_icons=true&locale=en&bg_color=fff&title_color=7289da&text_color=444&icon_color=7289da" alt="m0n0t0ny" style="width: 500px;" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0n0t0ny&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&ri%20font-size:%201rem;ng=7289DA&currStreakLabel=444444&border=444444&stroke=444444&sideNums=444444&excludeDaysLabel=444444&dates=444444&currStreakNum=444444&sideLabels=444444&background=FFFFFF" alt="m0n0t0ny" /></p>
