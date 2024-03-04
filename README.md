@@ -1,10 +1,12 @@
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Antonio+Bertuccio+%F0%9F%91%8B" alt="Typing SVG" />
+    <div style="border-radius: 5rem;">
+        <img src="https://github.com/m0n0t0ny/m0n0t0ny/assets/46935714/669ba100-8b6f-4fb0-90c7-a309976e91c6">
+    </div>
 </p>
-<br>
+    <br>
 <p align="center">
-    <img width="100px" src="./img/favicon/apple-touch-icon.png">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Antonio+Bertuccio+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 <br>
 
