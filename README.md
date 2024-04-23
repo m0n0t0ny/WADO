@@ -8,19 +8,15 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Antonio+Bertuccio+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m0n0t0ny&label=Profile%20views&color=0e75b6&style=flat" alt="m0n0t0ny" /> </p>
 
 <p align="center">
-  <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm0n0t0ny1212%2Fhit-counter">
-</p>
-<p align="center">
+<a href="https://wakatime.com/@018b00ef-6cc1-43a4-8648-e9ef310cb613"><img src="https://wakatime.com/badge/user/018b00ef-6cc1-43a4-8648-e9ef310cb613.svg" alt="Total time coded since Oct 5 2023" /></a>
+<img src="https://komarev.com/ghpvc/?username=m0n0t0ny&label=Profile%20views&color=0e75b6&style=flat" alt="m0n0t0ny" />
+<!--   <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm0n0t0ny1212%2Fhit-counter"> -->
 <!-- <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/m0n0t0ny/m0n0t0ny">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/m0n0t0ny">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/m0n0t0ny/m0n0t0ny">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/m0n0t0ny"><br><br> -->
-<a href="https://wakatime.com/@018b00ef-6cc1-43a4-8648-e9ef310cb613"><img src="https://wakatime.com/badge/user/018b00ef-6cc1-43a4-8648-e9ef310cb613.svg" alt="Total time coded since Oct 5 2023" /></a>
 </p>
 <br>
 
