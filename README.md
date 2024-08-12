@@ -22,11 +22,10 @@
 
 ### On my way to become a full-stack developer 🍀
 
-- 🌱 I’m currently studying at Epicode to become a full-stack developer!
+- 🌱 I "graduated" full-stack developer at Epicode in 2024.
 - 🤝 I’m looking to collaborate for projects with custom CSS.
 - ⚡ Fun fact: I can say "cheers" in 17 languages 🍻
-- 📫 How to reach me **<anto.bertu@gmail.com>**
-  <br><br>
+- 📫 How to reach me: [anto.bertu@gmail.com](mailto:anto.bertu@gmail.com)
 
 ---
 
@@ -175,18 +174,17 @@ Angular
 <summary>💹 GitHub Stats</summary>
 <br>
 
-[![html progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=100)](https://github.com/harish-sethuraman/readme-components)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95)](https://github.com/harish-sethuraman/readme-components)
-[![javascript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/harish-sethuraman/readme-components)
-[![typescript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=TypeScript&value=85)](https://github.com/harish-sethuraman/readme-components)
-[![java progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Java&value=50)](https://github.com/harish-sethuraman/readme-components)
+<!-- [![html progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=100)](https://github.com/harish-sethuraman/readme-components) -->
+<!-- [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95)](https://github.com/harish-sethuraman/readme-components) -->
+<!-- [![javascript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Javascript&value=90)](https://github.com/harish-sethuraman/readme-components) -->
+<!-- [![typescript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=TypeScript&value=85)](https://github.com/harish-sethuraman/readme-components) -->
+<!-- [![java progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Java&value=50)](https://github.com/harish-sethuraman/readme-components) -->
 
 <br><br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@m0n0t0ny/eed46992-59e0-4494-a1cc-f93908ec791d.png" style="width: 500px; border-radius: 5px; margin-bottom:12px" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m0n0t0ny&show_icons=true&locale=en&bg_color=fff&title_color=7289da&text_color=444&icon_color=7289da" alt="m0n0t0ny" style="width: 500px;" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m0n0t0ny&show_icons=true&locale=en&bg_color=fff&title_color=7289da&text_color=444&icon_color=7289da" alt="m0n0t0ny" style="width: 500px;" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0n0t0ny&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&ri%20font-size:%201rem;ng=7289DA&currStreakLabel=444444&border=444444&stroke=444444&sideNums=444444&excludeDaysLabel=444444&dates=444444&currStreakNum=444444&sideLabels=444444&background=FFFFFF" alt="m0n0t0ny" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m0n0t0ny" alt="m0n0t0ny" style="width: 500px;" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0n0t0ny" alt="m0n0t0ny" style="width: 500px;" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0n0t0ny" alt="m0n0t0ny" style="width: 500px;" /></p> -->
 
 </details>
