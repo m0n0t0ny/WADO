@@ -20,16 +20,25 @@
 </p>
 <br>
 
-### On my way to become a full-stack developer 🍀
+## About Me
+Hi there! I'm a dedicated full-stack developer with a strong passion for creating intuitive and visually appealing user experiences.
+<br>I love combining creativity with technology to build responsive, user-friendly applications.
 
-- 🌱 I "graduated" full-stack developer at Epicode in 2024.
-- 🤝 I’m looking to collaborate for projects with custom CSS.
-- ⚡ Fun fact: I can say "cheers" in 17 languages 🍻
-- 📫 How to reach me: [anto.bertu@gmail.com](mailto:anto.bertu@gmail.com)
+<br>💪 Certified full-stack developer at Epicode
+<br>🤝 Passionate about UX/UI design and custom CSS
+<br>⚡ Fun fact: I can say "cheers" in 17 languages 🍻
 
----
+## How to reach me
+📧 Mail: [anto.bertu@gmail.com](mailto:anto.bertu@gmail.com)
+<br>💼 Linkedin: [antoniobertuccio-fullstackdeveloper](https://www.linkedin.com/in/antoniobertuccio-fullstackdeveloper/)
 
-### Epicode Academy 🔥
+## My links
+🌍 Website: [antoniobertuccio.com](https://antoniobertuccio.com/)
+<br>📷 Instagram: [bertucc.io](https://www.instagram.com/bertucc.io/)
+<br>🔊 Discord: [480049941042036767](https://discordapp.com/users/480049941042036767)
+<br>🖌 CodePen: [M0N0T0NY](https://codepen.io/M0N0T0NY)
+
+## My work at Epicode from oldest to newest
 
 <details>
 <summary>See my work 👨‍💻</summary><br>
@@ -119,9 +128,7 @@ Angular
 
 <br>
 
----
-
-### Connect:
+## Connect:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/480049941042036767)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bertucc.io/)
@@ -130,9 +137,7 @@ Angular
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 <br><br>
 
----
-
-### Languages:
+## Languages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -140,10 +145,9 @@ Angular
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br><br>
 
----
-
-### Platforms, Libraries and Frameworks:
+## Platforms, Libraries and Frameworks:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -154,9 +158,7 @@ Angular
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 <br><br>
 
----
-
-### Tools:
+## Tools:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
@@ -167,12 +169,9 @@ Angular
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 <br><br>
 
----
-
 <details>
 
 <summary>💹 GitHub Stats</summary>
-<br>
 
 <!-- [![html progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=100)](https://github.com/harish-sethuraman/readme-components) -->
 <!-- [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=95)](https://github.com/harish-sethuraman/readme-components) -->
@@ -180,7 +179,7 @@ Angular
 <!-- [![typescript progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=TypeScript&value=85)](https://github.com/harish-sethuraman/readme-components) -->
 <!-- [![java progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Java&value=50)](https://github.com/harish-sethuraman/readme-components) -->
 
-<br><br>
+<br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@m0n0t0ny/eed46992-59e0-4494-a1cc-f93908ec791d.png" style="width: 500px; border-radius: 5px; margin-bottom:12px" /></a>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m0n0t0ny&show_icons=true&locale=en&bg_color=fff&title_color=7289da&text_color=444&icon_color=7289da" alt="m0n0t0ny" style="width: 500px;" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0n0t0ny&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&ri%20font-size:%201rem;ng=7289DA&currStreakLabel=444444&border=444444&stroke=444444&sideNums=444444&excludeDaysLabel=444444&dates=444444&currStreakNum=444444&sideLabels=444444&background=FFFFFF" alt="m0n0t0ny" /></p>
