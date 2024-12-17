@@ -2,7 +2,7 @@
 <p align="center">
     <div style="border-radius: 5rem;">
         <!-- <img src="https://github.com/m0n0t0ny/m0n0t0ny/assets/46935714/669ba100-8b6f-4fb0-90c7-a309976e91c6"> -->
-        <img src="https://i.postimg.cc/htjdnsgx/Banner-Linkedin.png">
+        <img src="https://i.postimg.cc/jdfQrmSk/banner-github.png">
     </div>
 </p>
     <br>
