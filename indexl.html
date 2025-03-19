@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#25D366">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="description" content="Apri conversazioni WhatsApp senza salvare contatti">
+    <meta name="application-name" content="WA Direct">
+    <meta name="apple-mobile-web-app-title" content="WA Direct">
+    <title>WhatsApp Direct Opener</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" sizes="72x72" href="img/icon-72x72.png">
+    <link rel="icon" sizes="96x96" href="img/icon-96x96.png">
+    <link rel="icon" sizes="128x128" href="img/icon-128x128.png">
+    <link rel="icon" sizes="144x144" href="img/icon-144x144.png">
+    <link rel="icon" sizes="152x152" href="img/icon-152x152.png">
+    <link rel="icon" sizes="192x192" href="img/icon-192x192.png">
+    <link rel="icon" sizes="384x384" href="img/icon-384x384.png">
+    <link rel="icon" sizes="512x512" href="img/icon-512x512.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="96x96" href="img/icon-96x96.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="img/icon-128x128.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="img/icon-192x192.png">
+    <link rel="apple-touch-icon" sizes="384x384" href="img/icon-384x384.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="img/icon-512x512.png">
+    <script src="splashscreen.js"></script>
+    <script src="network-status.js"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <div class="app-header">
+            <h1>WhatsApp Direct</h1>
+            <p>Apri conversazioni senza salvare contatti</p>
+        </div>
+        <div class="app-content">
+            <div class="input-group">
+                <label for="phone">Numero di telefono</label>
+                <div class="phone-input">
+                    <input type="text" id="countryCode" class="country-code-input" value="+39" maxlength="5">
+                    <input type="tel" id="phone" placeholder="Inserisci il numero" pattern="[0-9]*">
+                </div>
+                <p class="helper-text">Inserisci il numero senza spazi o trattini</p>
+                <p class="error-message" id="errorMessage">Inserisci un numero valido</p>
+            </div>
+            <button class="button" id="openWhatsApp">Apri WhatsApp</button>
+
+            <div class="recent-numbers" id="recentNumbersContainer">
+                <h3>Numeri recenti</h3>
+                <ul class="recent-list" id="recentNumbers">
+                    <!-- I numeri recenti verranno inseriti qui via JavaScript -->
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        // Registra il Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('service-worker.js')
+                    .then(function (registration) {
+                        console.log('Service Worker registrato con successo:', registration.scope);
+                    })
+                    .catch(function (error) {
+                        console.log('Registrazione Service Worker fallita:', error);
+                    });
+            });
+        }
+    </script>
+</body>
+
+</html>
