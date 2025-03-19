@@ -1,8 +1,9 @@
 {
   "name": "WhatsApp Direct Opener",
-  "short_name": "WA Direct",
+  "short_name": "WADO",
   "description": "Apri conversazioni WhatsApp senza salvare contatti",
-  "start_url": "./index.html",
+  "start_url": "/m0n0t0ny/index.html",
+  "scope": "/m0n0t0ny/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#ffffff",
@@ -12,7 +13,6 @@
   "dir": "auto",
   "iarc_rating_id": "",
   "prefer_related_applications": false,
-  "scope": "/",
   "icons": [
     {
       "src": "img/icon-72x72.png",
