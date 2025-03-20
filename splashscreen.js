@@ -67,8 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 border-radius: 80px;
                 position: relative;
                 z-index: 2;
-                background-image: url('/img/maskable-icon.png');
-                background-repeat: no-repeat;
+                background-image: url('/img/icon/maskable-icon.png');
                 background-position: center;
                 background-size: 120px 120px;
             }
@@ -76,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 position: absolute;
                 width: 150px;
                 height: 150px;
-                border: 3px solid rgba(255, 255, 255, 0.3);
+                border: 1px solid rgba(255, 255, 255, 0.3);
                 border-radius: 50%;
                 border-top-color: white;
                 animation: spin 1.5s linear infinite;

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 262144 262144"
+   version="1.1"
+   id="svg5"
+   width="262144"
+   height="262144"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <!-- Sfondo quadrato con angoli arrotondati -->
+  <!-- Cerchio bianco per l'icona -->
+  <circle
+     cx="256"
+     cy="256"
+     r="180"
+     fill="#ffffff"
+     id="circle1" />
+  <!-- Logo WhatsApp stylized -->
+  <path
+     d="m 255.9,148.05 c -58.5,0 -106,47.5 -106,106 0,20.8 6.1,40.2 16.5,56.6 l -17.8,53.3 54.7,-17.3 c 15.8,9.6 34.3,15.2 54.1,15.2 58.5,0 106,-47.5 106,-106 0,-58.5 -49,-107.8 -107.5,-107.8 z"
+     fill="#25d366"
+     id="path1" />
+  <!-- Direct icon + speech bubble -->
+  <!-- Phone symbol -->
+  <!-- Freccia che indica il volo/invio -->
+  <g
+     id="g5"
+     transform="translate(-17.000125)">
+    <circle
+       cx="294"
+       cy="256"
+       r="38"
+       fill="#ffffff"
+       id="circle2" />
+    <path
+       d="m 220.00025,226 30,30 -30,30"
+       stroke="#ffffff"
+       stroke-width="12"
+       fill="none"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path5" />
+  </g>
+</svg>
