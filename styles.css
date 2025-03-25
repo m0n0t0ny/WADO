@@ -14,8 +14,15 @@ body {
   padding: 0;
   overflow: hidden;
   overscroll-behavior: none;
-  touch-action: manipulation;
-  user-select: none;
+}
+
+/* Remove touch-specific properties on desktop */
+@media (min-width: 769px) {
+  html,
+  body {
+    touch-action: auto;
+    user-select: auto;
+  }
 }
 
 body {
@@ -35,11 +42,34 @@ body {
   background-color: white;
   width: 100%;
   max-width: 400px;
-  border-radius: 12px;
+  border-radius: 28px 28px 28px 28px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: max-width 0.3s ease, height 0.3s ease;
+}
+
+/* Desktop specific improvements */
+@media (min-width: 769px) {
+  .app-container {
+    max-width: 450px;
+  }
+
+  /* Add hover effects for desktop */
+  .button:hover {
+    background-color: #20bc5c;
+  }
+
+  .recent-list button:hover {
+    background-color: rgba(18, 140, 126, 0.08);
+  }
+
+  .recent-list li:hover {
+    background-color: #e8eaed;
+  }
 }
 
 .app-header {
@@ -76,9 +106,27 @@ body {
   padding: 20px;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-  height: calc(
-    100% - 80px
-  ); /* Regola l'altezza in base all'altezza dell'header */
+  flex: 1;
+  scrollbar-width: thin;
+  scrollbar-color: #25d366 #f0f2f5;
+}
+
+/* Custom scrollbar for desktop */
+@media (min-width: 769px) {
+  .app-content::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .app-content::-webkit-scrollbar-track {
+    background: #f0f2f5;
+    border-radius: 10px;
+  }
+
+  .app-content::-webkit-scrollbar-thumb {
+    background-color: #25d366;
+    border-radius: 10px;
+    border: 2px solid #f0f2f5;
+  }
 }
 
 .input-group {
@@ -96,7 +144,7 @@ body {
   position: relative;
   display: flex;
   margin-bottom: 5px;
-  height: 48px; /* Altezza fissa per consistenza */
+  height: 48px;
 }
 
 #countryCode {
@@ -110,6 +158,7 @@ body {
   height: 48px;
   color: #333;
   outline: none;
+  transition: border-color 0.2s ease;
 }
 
 #countryCode:focus {
@@ -123,9 +172,10 @@ body {
   border-radius: 0 8px 8px 0;
   font-size: 1rem;
   outline: none;
+  transition: border-color 0.2s ease;
 }
 
-#phone input:focus {
+#phone:focus {
   border-color: #25d366;
 }
 
@@ -139,7 +189,7 @@ body {
 .country-code-input {
   appearance: none;
   -webkit-appearance: none;
-  font-size: 16px; /* Previene lo zoom su iOS */
+  font-size: 16px;
 }
 
 .button {
@@ -153,7 +203,7 @@ body {
   font-size: 1rem;
   font-weight: 500;
   cursor: pointer;
-  transition: background-color 0.2s;
+  transition: background-color 0.2s, transform 0.1s;
   touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
   position: relative;
@@ -214,7 +264,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-height: 44px; /* Dimensione minima per una buona area di tocco */
+  min-height: 44px;
+  transition: background-color 0.2s ease;
 }
 
 .recent-list button {
@@ -226,11 +277,13 @@ body {
   padding: 8px 12px;
   border-radius: 4px;
   min-width: 60px;
-  min-height: 36px; /* Dimensione minima per touch */
+  min-height: 36px;
   text-align: center;
+  transition: background-color 0.2s ease;
 }
 
-@media (max-width: 480px) {
+/* Different layout for mobile */
+@media (max-width: 768px) {
   .app-container {
     border-radius: 0;
     height: 100vh;
@@ -285,8 +338,14 @@ body {
   background-color: rgba(18, 140, 126, 0.1);
 }
 
-/* Migliora l'accessibilità: aree di tocco più grandi */
-.recent-list button,
-.button {
-  min-height: 44px;
+/* Print styles */
+@media print {
+  .app-container {
+    box-shadow: none;
+    height: auto;
+  }
+
+  .button {
+    display: none;
+  }
 }
