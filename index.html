@@ -14,24 +14,22 @@
     <meta name="application-name" content="WADO">
     <meta name="apple-mobile-web-app-title" content="WADO">
     <title>WADO</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="manifest" href="manifest.json">
-    <link rel="icon" type="image/png" href="https://m0n0t0ny.github.io/m0n0t0ny/img/favicon/favicon-96x96.png"
-        sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="https://m0n0t0ny.github.io/m0n0t0ny/img/favicon/favicon.svg" />
-    <link rel="shortcut icon" href="https://m0n0t0ny.github.io/m0n0t0ny/img/favicon/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180"
-        href="https://m0n0t0ny.github.io/m0n0t0ny/img/favicon/apple-touch-icon.png" />
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="manifest" href="./manifest.json">
+    <link rel="icon" type="image/png" href="./img/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="./img/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="./img/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/favicon/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-title" content="WADO" />
-    <link rel="manifest" href="https://m0n0t0ny.github.io/m0n0t0ny/img/favicon/site.webmanifest" />
-    <script src="splashscreen.js"></script>
-    <script src="network-status.js"></script>
+    <link rel="manifest" href="./img/favicon/site.webmanifest" />
+    <script src="./splashscreen.js"></script>
+    <script src="./network-status.js"></script>
 </head>
 
 <body>
     <div class="app-container">
         <div class="app-header">
-            <img src="https://m0n0t0ny.github.io/m0n0t0ny/img/icon/icon-72x72.png" alt="">
+            <img src="./img/icon/icon-72x72.png" alt="">
             <div>
                 <h1>WADO</h1>
                 <p>WhatsApp Direct Opener</p>
@@ -58,11 +56,11 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
+    <script src="./script.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function () {
-                navigator.serviceWorker.register('/m0n0t0ny/service-worker.js')
+                navigator.serviceWorker.register('./service-worker.js')
                     .then(function (registration) {
                         console.log('Service Worker registrato con successo:', registration.scope);
                     })

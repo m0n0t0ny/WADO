@@ -1,20 +1,20 @@
 const CACHE_NAME = "wado-v1";
 const urlsToCache = [
-  "/m0n0t0ny/",
-  "/m0n0t0ny/index.html",
-  "/m0n0t0ny/styles.css",
-  "/m0n0t0ny/script.js",
-  "/m0n0t0ny/splashscreen.js",
-  "/m0n0t0ny/network-status.js",
-  "/m0n0t0ny/img/icon-72x72.png",
-  "/m0n0t0ny/img/icon-96x96.png",
-  "/m0n0t0ny/img/icon-128x128.png",
-  "/m0n0t0ny/img/icon-144x144.png",
-  "/m0n0t0ny/img/icon-152x152.png",
-  "/m0n0t0ny/img/icon-192x192.png",
-  "/m0n0t0ny/img/icon-384x384.png",
-  "/m0n0t0ny/img/icon-512x512.png",
-  "/m0n0t0ny/manifest.json"
+  "./",
+  "./index.html",
+  "./styles.css",
+  "./script.js",
+  "./splashscreen.js",
+  "./network-status.js",
+  "./img/icon-72x72.png",
+  "./img/icon-96x96.png",
+  "./img/icon-128x128.png",
+  "./img/icon-144x144.png",
+  "./img/icon-152x152.png",
+  "./img/icon-192x192.png",
+  "./img/icon-384x384.png",
+  "./img/icon-512x512.png",
+  "./manifest.json"
 ];
 
 // Installazione del Service Worker e caching delle risorse

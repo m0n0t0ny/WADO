@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 border-radius: 80px;
                 position: relative;
                 z-index: 2;
-                background-image: url('https://m0n0t0ny.github.io/m0n0t0ny/img/icon/maskable-icon.png');
+                background-image: url('./img/icon/maskable-icon.png');
                 background-position: center;
                 background-size: 120px 120px;
             }
@@ -92,3 +92,4 @@ document.addEventListener("DOMContentLoaded", function () {
   createSplashStyles();
   createSplashScreen();
 });
+[];
